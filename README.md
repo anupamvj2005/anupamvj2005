@@ -1,24 +1,53 @@
-# 💫 About Me:
-<br><br>Name: Anupam V. Jadhav  <br>Degree: B.Tech in Electronics & Telecommunication (2023–2027)  <br>Institute: K.K. Wagh Institute of Engineering Education & Research  <br><br><br>Write in a professional, placement-focused tone.<br><br>Add a short strong professional summary:<br><br>I am an Electronics & Telecommunication Engineering student focused on building intelligent real-time systems by integrating AI/ML, Embedded Systems, and IoT. I enjoy solving real-world engineering problems through sensor fusion, automation, and data-driven optimization. My goal is to develop scalable and impactful intelligent systems.<br><br>Create structured sections with proper headings and emojis:<br><br>1) 🚀 Technical Interests<br>- Artificial Intelligence & Machine Learning<br>- Embedded Systems & IoT<br>- Real-Time Systems & Sensor Fusion<br>- Full-Stack AI Development<br>- Intelligent Automation & Optimization<br><br>2) 💻 Technical Skills<br><br>Languages:<br>C, C++, Python<br><br>AI/ML:<br>TensorFlow, PyTorch, Scikit-learn, OpenCV, Generative AI (LLMs)<br><br>Embedded & Hardware:<br>STM32, ESP32, Arduino, Raspberry Pi, ARM Microcontrollers<br><br>Web & Database:<br>HTML, CSS, JavaScript, Streamlit, SQL, MongoDB<br><br>3) 🔬 Key Projects<br><br>- MidCart – AI-based Inventory & Sales Intelligence Platform  <br>  Developed an AI-powered dashboard for real-time inventory tracking and sales forecasting using ML models.<br><br>- GPS Latency Reduction & Motion Prediction System  <br>  Implemented GPS + IMU sensor fusion for low-latency autonomous tracking using ESP32 and Python.<br><br>- OBUS – Optimized Bus Utilization System  <br>  Designed a real-time system for tracking bus seat occupancy and optimizing public transport utilization.<br><br>4) 📄 Research & Intellectual Work<br><br>- Working on Research Paper – Low-Latency GPS & IMU Fusion (Under Review)  <br>- Copyright Filed – Dynamic Traffic Signal Optimization<br><br>5) 🏆 Achievements<br><br>- Smart India Hackathon (SIH) – Semi-Finalist  <br>- Startup Pitch Competition – Consolation Prize Winner  <br>- 5+ Coding Competitions Participation  <br><br>6) 🎯 Leadership & Responsibility<br><br>- Head – Student Association of Electronics Engineering  <br>- Member – Training & Placement Cell  <br>- Board of Directors (BOD) – Elite Club  <br><br>7) 🎓 Certifications<br><br>- ML for Engineering & Science Applications – NPTEL (IIT Madras)  <br>- Generative AI for Beginners – Simplilearn  <br>- Introduction to Internet of Things – NPTEL (IIT Kharagpur)  <br>- Introduction to Embedded Systems – NPTEL (IIT Bombay)  <br>- Introduction to Quantum Computing & Qiskit – NPTEL (IIT Madras)<br><br>8) 📌 Current Focus<br><br>- AI-driven Embedded Systems  <br>- Sensor Fusion & Autonomous Tracking  <br>- Real-Time Optimization Systems  <br>- Intelligent IoT Product Development  <br><br>End the README with:<br><br>I am actively seeking opportunities in AI/ML, Embedded Systems, and Intelligent Product Development roles.  <br>Open to collaboration, research, and innovative engineering challenges.<br>
-
-
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/anupamvj2005) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/motionstories_aj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anupam-jadhav-1b8421392) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/anupam_jadhav_fx) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AnupamJadhav2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anupamjadhav2005@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=flat&logo=eclipsemosquitto&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=flat&logo=openapiinitiative&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat&logo=xbox&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat&logo=amd&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anupamvj2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anupamvj2005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anupamvj2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anupamvj2005&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anupamvj2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <h1>Hi there, I'm Anupam V. Jadhav 👋</h1>
+  <h3>B.Tech in Electronics & Telecommunication (2023–2027)</h3>
+  <p><em>K.K. Wagh Institute of Engineering Education & Research</em></p>
+  
+  <p>
+    <a href="mailto:anupamjadhav2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://linkedin.com/in/anupam-jadhav-1b8421392"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://bsky.app/profile/anupamvj2005"><img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF" alt="Bluesky"></a>
+    <a href="https://x.com/AnupamJadhav2"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
+    <a href="https://instagram.com/motionstories_aj"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+  </p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anupamvj2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 Professional Summary
+
+> I am an **Electronics & Telecommunication Engineering** student focused on building intelligent real-time systems by integrating **AI/ML, Embedded Systems, and IoT**. I enjoy solving real-world engineering problems through sensor fusion, automation, and data-driven optimization. My goal is to develop scalable and impactful intelligent systems.
+
+---
+
+## 🚀 Technical Interests
+
+* **Artificial Intelligence & Machine Learning**
+* **Embedded Systems & IoT**
+* **Real-Time Systems & Sensor Fusion**
+* **Full-Stack AI Development**
+* **Intelligent Automation & Optimization**
+
+---
+
+## 💻 Technical Skills
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | C, C++, Python |
+| **AI / ML** | TensorFlow, PyTorch, Scikit-learn, OpenCV, Generative AI (LLMs) |
+| **Embedded & Hardware** | STM32, ESP32, Arduino, Raspberry Pi, ARM Microcontrollers |
+| **Web & Database** | HTML, CSS, JavaScript, Streamlit, SQL, MongoDB |
+
+<details>
+<summary><b>🛠️ View My Full Tech Stack Badges</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React">
+  <br>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow">
