@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>💫 Hi there, I'm Anupam V. Jadhav 👋</h1>
+  <h1>👋 Hi there, I'm Anupam V. Jadhav 💫</h1>
   <h3>B.Tech in Electronics & Telecommunication (2023–2027)</h3>
   <p><em>K.K. Wagh Institute of Engineering Education & Research, Nashik</em></p>
 
