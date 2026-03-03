@@ -102,14 +102,14 @@
 
 ## 🏆 Achievements
 
-* **Smart India Hackathon (SIH)** – Semi-Finalist  
+* **Smart India Hackathon (SIH)** – Participation
 * **Startup Pitch Competition** – Consolation Prize Winner  
 * **5+ Coding Competitions** Participation  
 
 ## 🎯 Leadership & Responsibility
 
-* **Co-Head** – Student Association of Electronics Engineering  
-* **Member** – Training & Placement Cell  
+* **Co-Head** – Student Association of Electronics Engineering, KKWIEER 
+* **Member** – Training & Placement Cell, KKWIEER  
 * **Board of Directors (BOD)** – Elite Club, Nashik
 
 ## 🎓 Certifications
