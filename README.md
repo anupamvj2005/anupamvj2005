@@ -111,11 +111,12 @@
 * **Co-Head** – Student Association of Electronics Engineering, KKWIEER 
 * **Member** – Training & Placement Cell, KKWIEER  
 * **Board of Directors (BOD)** – Elite Club, Nashik
+* **Head** - Telekinesis [ E&TC Department ]
 
 ## 🎓 Certifications
 
 * **ML for Engineering & Science Applications** – NPTEL (IIT Madras)  
-* **Generative AI for Beginners** – Simplilearn  
+* **Generative AI for Beginners** – Simplilearn
 
 ## 📌 Current Focus
 
