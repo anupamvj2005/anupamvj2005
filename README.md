@@ -53,23 +53,6 @@ My goal is to develop **scalable intelligent systems that impact real-world infr
 
 </div>
 
----
-
-# 🎓 Education
-
-**B.Tech – Electronics & Telecommunication Engineering**  
-K.K. Wagh Institute of Engineering Education & Research, Nashik  
-
-📊 CGPA: **7.59**
-
-**HSC (Class 12)**  
-61.50%
-
-**SSC (Class 10)**  
-84.40%
-
----
-
 # 💻 Technical Skills
 
 ## Programming Languages
