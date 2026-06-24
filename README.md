@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm **Anupam V. Jadhav** 💫
 
-### B.Tech in Electronics & Telecommunication Engineering (2023–2027)
+### B.Tech in Electronics & Telecommunication Engineering (2023–2027) | CGPA: 7.64
 
 **K.K. Wagh Institute of Engineering Education & Research, Nashik**
 
@@ -14,16 +14,9 @@
 
 # 🚀 About Me
 
-I am an **Electronics & Telecommunication Engineering student** focused on building **intelligent real-time systems** by integrating:
+As an E&TC student, my goal is to apply technical skills in microcontrollers, Embedded C/C++, and real-time serial protocols to deploy low-latency firmware and intelligent automotive IoT solutions.
 
-- Artificial Intelligence & Machine Learning  
-- Embedded Systems & IoT  
-- Sensor Fusion & Autonomous Tracking  
-- Data-driven optimization  
-
-I enjoy solving **real-world engineering problems** through **hardware + software integration**.
-
-My goal is to develop **scalable intelligent systems that impact real-world infrastructure and automation**.
+I enjoy solving **real-world engineering problems** through **hardware + software integration** and am deeply engaged in technical project development involving AI, ML, and Embedded Systems.
 
 ---
 
@@ -56,31 +49,20 @@ My goal is to develop **scalable intelligent systems that impact real-world infr
 # 💻 Technical Skills
 
 ## Programming Languages
-- C  
-- C++  
-- Python  
+- C
+- C++
+- Python
 
-## AI / ML & Data Science
-- TensorFlow  
-- PyTorch  
-- Scikit-learn  
-- OpenCV  
-- Generative AI (LLMs)
+## Embedded Systems & IoT
+- STM32 & ESP32
+- Embedded C
+- UART, SPI, I2C, MQTT
+- Sensors: GPS, IMU, Wi-Fi, Sensor Interfacing
 
-## Embedded Systems
-- ESP32  
-- Arduino  
-- Raspberry Pi  
-- ARM Microcontrollers  
-- Sensor Interfacing
-
-## Web & Data
-- HTML  
-- CSS  
-- JavaScript  
-- Streamlit  
-- SQL  
-- MongoDB  
+## AI / ML & Tools
+- OpenCV
+- Full-stack AI Development & Streamlit
+- Generative AI & ML Libraries
 
 ---
 
@@ -88,7 +70,7 @@ My goal is to develop **scalable intelligent systems that impact real-world infr
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,git,github,docker,mongodb,mysql,postgres,tensorflow,pytorch,opencv,raspberrypi,arduino" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,opencv,raspberrypi,arduino,git,github,docker,mongodb,tensorflow" />
 
 </div>
 
@@ -96,148 +78,80 @@ My goal is to develop **scalable intelligent systems that impact real-world infr
 
 # 🔬 Major Projects
 
-## 🚀 MidCart – AI Based Pharmacy Intelligence Platform
-AI-powered pharmacy inventory system with:
-- Medicine demand forecasting
-- Expiry prediction
-- Sales analytics dashboard
-- Smart recommendation system
-
-Tech Stack:
-Python • ML • Streamlit • Data Analytics
-
----
-
 ## 🛰 GPS Latency Reduction & Motion Prediction System
+*Fuses GPS/IMU metrics via Extended Kalman Filtering for real-time tracking.*
 
-Fuses **GPS + IMU sensor data** to achieve **low-latency autonomous tracking**.
-
-Tech Stack:
-
-ESP32  
-GPS NEO-6M  
-IMU MPU6050  
-C++  
-Sensor Fusion Algorithms
+**Tech Stack:** ESP32, NEO-6M GPS, MPU6050, C++, Sensor Fusion, ISRs
 
 ---
 
-## 🏠 Smart Home Automation – IoT Control System
+## 🏠 Home Automation
+*Engineered deterministic IoT automation firmware for non-blocking load scheduling.*
 
-Developed a **smart IoT system for home appliances** with real-time monitoring.
-
-Features:
-- Remote appliance control
-- Energy optimization
-- ESP32 firmware integration
+**Tech Stack:** Arduino, Wi-Fi, Peripherals, Embedded C, MQTT
 
 ---
 
-## 📡 WiFi Heatmapper – Network Signal Visualization
+## 📡 WiFi Heatmapper
+*Programmed low-level RF driver hooks to map regional wireless network coverage.*
 
-System for **mapping WiFi signal strength using ESP32 sensing data**.
-
-Tech Stack:
-ESP32  
-C++  
-WiFi RSSI Analysis  
-ML Visualization
+**Tech Stack:** ESP32, Wi-Fi, Python, Data Visualization, Network Drivers
 
 ---
 
-# 💼 Internships
+# 💼 Internship
 
-### AI & Machine Learning Intern  
-**Edunet Foundation – AICTE (Remote)**  
-Dec 2025 – Jan 2026  
-
-Worked on:
-- AI Study Buddy project
-- Full-stack AI development
-- ML pipeline design
+### AI & ML Intern
+**Edunet / AICTE**
+*Dec 2025 - Jan 2026*
+- Key Skills: AIML, Streamlit, GitHub, Full-stack AI Development (AI Study Buddy)
 
 ---
 
-### Internet of Things Intern  
-**Emertxe / Edunet – Remote**  
-March 2026 – Present  
+# 🧪 Intellectual Property
 
-Skills:
-IoT  
-Embedded Systems  
-ESP32  
-Sensor Integration  
+📄 **Research Paper**
+IEEE Research Paper on Next Gen EVM (May 2026)
+
+📑 **Copyright Filed**
+Dynamic Traffic Signal Optimization (Nov 2025)
 
 ---
 
-# 🧪 Research & Intellectual Work
+# 🏆 Achievements & Co-Curricular
 
-📄 **Research Paper (Under Review)**  
-Low-Latency GPS & IMU Fusion for Autonomous Tracking
+🏅 **Smart India Hackathon (SIH) Semi-Finalist** – Selected at college level for the Software Edition (Sept-Nov 2025)
 
-📑 **Copyright Filed**  
-Dynamic Traffic Signal Optimization
+🥈 **Startup Pitch Competition** – Consolation Prize Winner for presenting an innovative business model at IIC & SIOM, Nashik (Nov 2025)
 
----
+🏆 **CODE-O-FIESTA 2.0 (Debuggers Club)** – Finalist for solving algorithmic coding problems (March 2024)
 
-# 🏆 Achievements
-
-🏅 Smart India Hackathon (SIH) – Participation  
-
-🥈 Startup Pitch Competition – Consolation Prize Winner  
+💻 **Campus To Corporate** – Participation in DSA & Aptitude (Nov 2024)
 
 💻 Participated in **5+ Coding Competitions**
 
-🏆 CODE-O-FIESTA 2.0 – Finalist
-
 ---
 
-# 🎯 Leadership & Responsibilities
+# 🎯 Leadership & Extra-Curricular
 
-### Head – Telekinesis Technical Event
-E&TC Department  
-KKWIEER  
-2025 – Present
+### Positions of Responsibility
+- **Board of Directors (BOD)** – Elite Club, Nashik (2024-2025)
+- **Head** – Telekinesis Technical Event, E&TC, KKWIEER (2025-Present)
+- **Co-Head** – Student Association of Electronics Engineering, KKWIEER (2025-Present)
 
-### Co-Head
-Student Association of Electronics Engineering (SAEEE)
-
-### Board of Directors (BOD)
-Elite Club, Nashik
-
-### Member
-Training & Placement Cell
+### Extra-Curricular
+- **Volunteer** – General community welfare and social leadership
+- **Volunteer** – Food Donation Drive (2023)
 
 ---
 
 # 📜 Certifications
 
-**ML for Engineering & Science Applications**  
-NPTEL – IIT Madras  
-
-**Generative AI for Beginners**  
-Simplilearn
-
-**Ideation to Product Development & Embedded Security**  
-EIRF & Cyber-X, Nashik
-
-**Placement Preparation Program**  
-IIT Bombay
-
-**Building AI Agents with Claude**  
-Airtribe Workshop
-
----
-
-# 🎯 Current Focus
-
-🔹 AI-driven Embedded Systems  
-
-🔹 Sensor Fusion & Autonomous Tracking  
-
-🔹 Intelligent IoT Product Development  
-
-🔹 Real-time Optimization Systems  
+- **ML for Engineering & Science Applications** – NPTEL (IIT Madras)
+- **Generative AI for Beginners** – Simplilearn
+- **Introduction to Internet of Things** – NPTEL (IIT Kharagpur)
+- **Introduction to Embedded System Design** – NPTEL (IIT Delhi)
+- **Ideation to Product Development and Embedded Security** – EIRF & Cyber-X, Nashik
 
 ---
 
@@ -280,16 +194,12 @@ Airtribe Workshop
 I am actively seeking opportunities in:
 
 - AI / Machine Learning
-- Embedded Systems
-- IoT Product Development
-- Intelligent Hardware Systems
+- Low-latency Firmware Development
+- Automotive IoT Solutions
+- Sensor Fusion Systems
 
 I am open to:
-
-Research Collaboration  
-Startup Projects  
-Hackathons  
-Engineering Innovation
+Research Collaboration | Startup Projects | Hackathons | Engineering Innovation
 
 ---
 
