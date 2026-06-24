@@ -166,7 +166,7 @@ Dynamic Traffic Signal Optimization (Nov 2025)
 </p>
 
 <p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=anupamvj2005&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anupamvj2005&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
