@@ -1,17 +1,18 @@
 <div align="center">
 
-# 👋 Hi there, I'm **Anupam V. Jadhav** 💫
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C4FF&height=180&section=header&text=Anupam%20V.%20Jadhav&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20AI%2FML&descAlignY=58&descSize=18" alt="Banner" />
 
-### B.Tech in Electronics & Telecommunication Engineering (2023–2027) | CGPA: 7.64
+<a href="https://github.com/anupamvj2005">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=AI+%7C+Embedded+Systems+%7C+IoT+Developer;Building+Intelligent+Real-Time+Systems;Sensor+Fusion+%7C+Autonomous+Systems;AI+Driven+Hardware+Innovation" alt="Typing animation" />
+</a>
 
+### 🎓 B.Tech in Electronics & Telecommunication Engineering (2023–2027) | CGPA: 7.64
 **K.K. Wagh Institute of Engineering Education & Research, Nashik**
-
-<img src="https://demolab.com/js/typing-svg?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=AI+%7C+Embedded+Systems+%7C+IoT+Developer;Building+Intelligent+Real-Time+Systems;Sensor+Fusion+%7C+Autonomous+Systems" alt="Typing animation" />
 
 <br/>
 
 <a href="https://myportfolio-chi-snowy-69.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-00C4FF?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-00C4FF?style=for-the-badge&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
@@ -24,7 +25,7 @@ As an E&TC student, my goal is to apply technical skills in microcontrollers, Em
 
 I enjoy solving **real-world engineering problems** through **hardware + software integration** and am deeply engaged in technical project development involving **AI, ML, and Embedded Systems**.
 
-📂 **My projects, internships, research paper, certifications and achievements are all on my portfolio:**
+📂 My projects, internships, research paper, certifications and achievements are all on my portfolio:
 👉 **[myportfolio-chi-snowy-69.vercel.app](https://myportfolio-chi-snowy-69.vercel.app/)**
 
 ---
@@ -57,18 +58,59 @@ I enjoy solving **real-world engineering problems** through **hardware + softwar
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,opencv,pytorch,sklearn,tensorflow,raspberrypi,arduino,git,github,mongodb,docker" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,opencv,pytorch,sklearn,mongodb,arduino,raspberrypi,git,github,vscode" alt="Tech stack" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad"/>
+<img src="https://img.shields.io/badge/Proteus-1F6FB2?style=for-the-badge" alt="Proteus"/>
 
 </div>
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anupamvj2005&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupamvj2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupamvj2005&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00C4FF/anupamvj2005" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anupamvj2005&style=for-the-badge&color=blue" alt="Profile Views"/>
+</p>
+
+---
+
 ## 🤝 Open For Opportunities
 
-Actively looking for roles in **Embedded Systems**, **IoT**, **Automotive Electronics**, and **AI/ML**. Open to research collaboration, hackathons and startup projects.
+Actively looking for roles in **Embedded Systems**, **IoT**, **Automotive Electronics** and **AI/ML**.
+Open to **Research Collaboration | Startup Projects | Hackathons**
 
 <div align="center">
 
 ⭐ **If you like my work, consider giving a star to my repositories!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:0D1117&height=100&section=footer" alt="Footer" />
 
 </div>
