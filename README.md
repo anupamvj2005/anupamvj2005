@@ -49,6 +49,12 @@ I enjoy solving **real-world engineering problems** through **hardware + softwar
 <a href="https://reddit.com/user/anupam_jadhav_fx">
   <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit"/>
 </a>
+<a>
+  <img src="https://shields.io" alt="MATLAB" />
+</a>
+<a>
+  <img src="https://shields.io" alt="PCB Design" />
+</a>
 
 </div>
 
