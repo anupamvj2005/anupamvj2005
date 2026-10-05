@@ -25,7 +25,7 @@ As an E&TC student, my goal is to apply technical skills in microcontrollers, Em
 
 I enjoy solving **real-world engineering problems** through **hardware + software integration** and am deeply engaged in technical project development involving **AI, ML, and Embedded Systems**.
 
-📂 My projects, internships, research paper, certifications and achievements are all on my portfolio:
+📂 My projects, internships, research paper, certifications and achievements are all on my portfolio:  
 👉 **[myportfolio-chi-snowy-69.vercel.app](https://myportfolio-chi-snowy-69.vercel.app/)**
 
 ---
@@ -58,18 +58,46 @@ I enjoy solving **real-world engineering problems** through **hardware + softwar
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,opencv,pytorch,sklearn,mongodb,arduino,raspberrypi,git,github,vscode" alt="Tech stack" />
+<!-- Programming & AI/ML -->
+<img src="https://skillicons.dev/icons?i=c,cpp,python,opencv,pytorch,tensorflow,sklearn,mongodb,fastapi,git,github,vscode,linux" alt="Programming and AI ML Stack" />
+
+<br/><br/>
+
+<!-- Embedded & Hardware -->
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Embedded Hardware Stack" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
 <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
 <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+
+<br/><br/>
+
+<!-- Electronics, PCB & Simulation -->
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+<img src="https://img.shields.io/badge/PCB%20Design-00C4FF?style=for-the-badge&logo=printedcircuitboard&logoColor=white" alt="PCB Design"/>
 <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad"/>
-<img src="https://img.shields.io/badge/Proteus-1F6FB2?style=for-the-badge" alt="Proteus"/>
-<img src="https://shields.io" alt="MATLAB" />
-<img src="https://shields.io" alt="PCB Design" />
+<img src="https://img.shields.io/badge/Proteus-1F6FB2?style=for-the-badge&logoColor=white" alt="Proteus"/>
+<img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium Designer"/>
+<img src="https://img.shields.io/badge/LTspice-8A2BE2?style=for-the-badge&logoColor=white" alt="LTspice"/>
+<img src="https://img.shields.io/badge/Multisim-FF6B00?style=for-the-badge&logoColor=white" alt="Multisim"/>
+
+<br/><br/>
+
+<!-- Communication Protocols -->
+<img src="https://img.shields.io/badge/UART-333333?style=for-the-badge&logoColor=white" alt="UART"/>
+<img src="https://img.shields.io/badge/I2C-333333?style=for-the-badge&logoColor=white" alt="I2C"/>
+<img src="https://img.shields.io/badge/SPI-333333?style=for-the-badge&logoColor=white" alt="SPI"/>
+<img src="https://img.shields.io/badge/CAN%20Bus-00599C?style=for-the-badge&logoColor=white" alt="CAN Bus"/>
+
+<br/><br/>
+
+<!-- Development & IoT -->
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 
 </div>
 
@@ -106,7 +134,7 @@ I enjoy solving **real-world engineering problems** through **hardware + softwar
 
 ## 🤝 Open For Opportunities
 
-Actively looking for roles in **Embedded Systems**, **IoT**, **Automotive Electronics** and **AI/ML**.
+Actively looking for roles in **Embedded Systems**, **IoT**, **Automotive Electronics** and **AI/ML**.  
 Open to **Research Collaboration | Startup Projects | Hackathons**
 
 <div align="center">
