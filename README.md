@@ -49,12 +49,6 @@ I enjoy solving **real-world engineering problems** through **hardware + softwar
 <a href="https://reddit.com/user/anupam_jadhav_fx">
   <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit"/>
 </a>
-<a>
-  <img src="https://shields.io" alt="MATLAB" />
-</a>
-<a>
-  <img src="https://shields.io" alt="PCB Design" />
-</a>
 
 </div>
 
@@ -74,6 +68,8 @@ I enjoy solving **real-world engineering problems** through **hardware + softwar
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad"/>
 <img src="https://img.shields.io/badge/Proteus-1F6FB2?style=for-the-badge" alt="Proteus"/>
+<img src="https://shields.io" alt="MATLAB" />
+<img src="https://shields.io" alt="PCB Design" />
 
 </div>
 
