@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=AI+%7C+Embedded+Systems+%7C+IoT+Developer;Building+Intelligent+Real-Time+Systems;Sensor+Fusion+%7C+Autonomous+Systems;AI+Driven+Hardware+Innovation" alt="Typing animation" />
 </a>
 
-### 🎓 B.Tech in Electronics & Telecommunication Engineering (2023–2027) | CGPA: 7.64
+### 🎓 B.Tech in Electronics & Telecommunication Engineering (2023–2027) 
 **K.K. Wagh Institute of Engineering Education & Research, Nashik**
 
 <br>
